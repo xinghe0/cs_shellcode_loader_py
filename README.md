@@ -1,6 +1,5 @@
 cs的shellcode免杀加载器
 
-参考 https://github.com/HZzz2/python-shellcode-loader学习编写
 
 # 思路
 
