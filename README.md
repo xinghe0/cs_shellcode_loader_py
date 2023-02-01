@@ -50,7 +50,7 @@ pyinstaller.exe -Fw -i tomcat.ico --key=leslie ms_run1.py
 
 
 ```
-pyinstaller.exe -Fw -i tomcat.ico --key=leslie ms_run1.py  
+pyinstaller.exe -Fw -i tomcat.ico --key=xinghe ms_run1.py  
 ```
 
 
