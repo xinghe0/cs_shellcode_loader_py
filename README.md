@@ -3,7 +3,7 @@ cs的shellcode免杀加载器
 
 # 思路
 
-本项目是基于学习shellcode原理和免杀基础而编写，主要利用加密、缩小体积、混淆等方式绕过检测，主要是为了应付火绒和360。
+本项目是基于学习shellcode原理和免杀基础而编写，利用加密、缩小体积、混淆等方式绕过检测，主要是为了应付火绒和360。
 
 https://github.com/xinghe0/cs_shellcode_loader_py
 
