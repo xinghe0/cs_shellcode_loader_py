@@ -24,7 +24,7 @@ base64、aes、位移密码、异或等
 ```
 pip install pyinstaller
 
-pyinstaller.exe -Fw -i tomcat.ico --key=leslie ms_run1.py  
+pyinstaller.exe -Fw -i tomcat.ico --key=xinghe ms_run1.py  
 ```
 
 
